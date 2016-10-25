@@ -84,7 +84,7 @@ game.state.start('startScreen');
 
 * Попробуйте поэксперементировать самостоятельно с this.sprite.x и this.sprite.width
 * Попробуйте создать второй спрайт `this.sprite2 = game.add.sprite(50, 50, 'ship')`
------
 
+-----
 
 Если у вас остались вопросы по туториалу, то можете их задать через почту luchansodev@gmail.com или в сообществе [Luchanso Talk](https://discord.gg/Cb4EEEn)
